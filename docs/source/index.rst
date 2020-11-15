@@ -8,11 +8,12 @@ Welcome to Apchae Liminal's documentation!
 
 .. toctree::
    :maxdepth: 2
-   getting_started_with_liminal
-   liminal_yaml_guide
-   howto_contrib_docs
    :caption: Contents:
 
+   getting_started_with_liminal
+   liminal_architecture
+   liminal_yaml_guide
+   howto_contrib_to_liminal_docs
 
 
 Indices and tables
